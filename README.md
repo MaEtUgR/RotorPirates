@@ -11,6 +11,7 @@ Compare Rates from RaceFlight, BetaFlight, and KISS with sliders!
 - BetaFlight Rates
 - RaceFlight Rates!
 - Even KISS RATES!!!!!!!
+- [PX4](https://github.com/PX4/Firmware) Acro Rates
 
 
 ### Installing, using
